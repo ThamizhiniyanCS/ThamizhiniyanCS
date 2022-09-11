@@ -14,3 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Who Am I
+
+Hi everyone, I am Thamizhiniyan C S, an asipiring cyber security student and full stack web developer.
+
+# Certifications
+#### 🙌 Certified Ethical Hacker v11 ( 2022 - 2025 )
+#### 🙌 Diploma in Computer Applications
+
+# Achievements
+
+#### TryHackMe Top 1%
+
+# My Socials
+
+#### ⚡  Linkedin    : https://www.linkedin.com/in/thamizhiniyancs/
+#### 📧  Mail        : csthamizhiniyan@gmail.com
+#### ⚡  Tryhackme   : https://tryhackme.com/p/ThamizhiniyanCS
+#### ⚡  HackTheBox  : https://app.hackthebox.com/profile/622863
+#### ⚡  HackerRank  : https://www.hackerrank.com/csthamizhiniyan
+
+
+
+
