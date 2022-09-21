@@ -29,6 +29,7 @@ Hi everyone, I am Thamizhiniyan C S, an asipiring cyber security student and ful
 
 # My Socials
 
+#### ⚡  LinkTree    : https://linktr.ee/thamizhiniyancs
 #### ⚡  Linkedin    : https://www.linkedin.com/in/thamizhiniyancs/
 #### 📧  Mail        : csthamizhiniyan@gmail.com
 #### ⚡  Tryhackme   : https://tryhackme.com/p/ThamizhiniyanCS
