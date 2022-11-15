@@ -27,6 +27,8 @@ Hi everyone, I am Thamizhiniyan C S, an asipiring cyber security student and ful
 
 #### TryHackMe Top 1%
 
+#### My Resume : https://drive.google.com/file/d/1__r0XvWteqQUaioZrCBgMMylPrCFlJuG/view?usp=sharing
+
 # My Socials
 
 #### ⚡  LinkTree    : https://linktr.ee/thamizhiniyancs
