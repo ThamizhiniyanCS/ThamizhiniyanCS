@@ -29,15 +29,17 @@ Hi everyone, I am Thamizhiniyan C S, an asipiring cyber security student and ful
 
 # Resume
 
-#### My Resume : [Click to View](https://drive.google.com/file/d/1__r0XvWteqQUaioZrCBgMMylPrCFlJuG/view?usp=sharing)
+#### My Resume : [Click to View](https://drive.google.com/file/d/1Pq-L_aNIsr-Vcugs5MnZSDnRbj_cyQNV/view?usp=sharing)
 
 # My Socials
 
 #### ⚡  LinkTree    : https://linktr.ee/thamizhiniyancs
 #### ⚡  Linkedin    : https://www.linkedin.com/in/thamizhiniyancs/
+#### ⚡  Twitter     : https://twitter.com/ThamizhiniyanCS
 #### 📧  Mail        : csthamizhiniyan@gmail.com
 #### ⚡  Tryhackme   : https://tryhackme.com/p/ThamizhiniyanCS
 #### ⚡  HackTheBox  : https://app.hackthebox.com/profile/622863
+#### ⚡  LeetCode    : https://leetcode.com/csthamizhiniyan/
 #### ⚡  HackerRank  : https://www.hackerrank.com/csthamizhiniyan
 
 # Github Stats
