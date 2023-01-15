@@ -42,9 +42,9 @@ Hi everyone, I am Thamizhiniyan C S, an asipiring cyber security student and ful
 #### ⚡  LeetCode    : https://leetcode.com/csthamizhiniyan/
 #### ⚡  HackerRank  : https://www.hackerrank.com/csthamizhiniyan
 
-# Github Stats
+<!-- # Github Stats
 ![Thamizhiniyan18 github stats](https://github-readme-stats.vercel.app/api?username=Thamizhiniyan18&count_private=true&theme=tokyonight)  
-![Thamizhiniyan18 github top_languages](https://github-readme-stats.vercel.app/api/top-langs?username=Thamizhiniyan18&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![Thamizhiniyan18 github top_languages](https://github-readme-stats.vercel.app/api/top-langs?username=Thamizhiniyan18&show_icons=true&locale=en&layout=compact&theme=tokyonight) -->
 
 # WakaTime Stats
 ![Thamizhiniyan18 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Thamizhiniyan18&theme=tokyonight)
