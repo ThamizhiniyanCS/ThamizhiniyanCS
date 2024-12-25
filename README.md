@@ -19,6 +19,17 @@ Here are some ideas to get you started:
 
 Hi everyone, I am Thamizhiniyan C S, an asipiring cyber security student and full stack web developer.
 
+# My Github Stats
+
+<a href="https://thamizhiniyancs.vercel.app/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ThamizhiniyanCS&count_private=true&show_icons=true&theme=dark" />
+</a>
+<a href="https://thamizhiniyancs.vercel.app/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThamizhiniyanCS&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
+</a>
+<br />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ThamizhiniyanCS&theme=dark" />
+
 # My Socials
 
 #### ⚡  LinkTree    : https://linktr.ee/thamizhiniyancs
@@ -27,11 +38,3 @@ Hi everyone, I am Thamizhiniyan C S, an asipiring cyber security student and ful
 #### ⚡  Tryhackme   : https://tryhackme.com/p/ThamizhiniyanCS
 #### ⚡  HackTheBox  : https://app.hackthebox.com/profile/622863
 #### ⚡  HackerRank  : https://www.hackerrank.com/csthamizhiniyan
-
-# Github Stats
-![Thamizhiniyan18 github stats](https://github-readme-stats.vercel.app/api?username=ThamizhiniyanCS&count_private=true&theme=tokyonight)  
-![Thamizhiniyan18 github top_languages](https://github-readme-stats.vercel.app/api/top-langs?username=ThamizhiniyanCS&show_icons=true&locale=en&layout=compact&theme=tokyonight)
-
-
-
-
